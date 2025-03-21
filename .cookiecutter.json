@@ -1,0 +1,16 @@
+{
+  "_checkout": null,
+  "_output_dir": "/Users/bpeng/business/unitysvc",
+  "_repo_dir": "/Users/bpeng/.cookiecutters/cookiecutter-hypermodern-python",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Unity Digital Services",
+  "copyright_year": "2025",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "support@unitysvc.com",
+  "friendly_name": "svcpass",
+  "github_user": "bo-unitysvc",
+  "license": "MIT",
+  "package_name": "svcpass",
+  "project_name": "svcpass-py",
+  "version": "0.1.0"
+}
